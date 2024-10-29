@@ -1143,7 +1143,7 @@ Transform:
   m_GameObject: {fileID: 949591451}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.6409874, y: -0.77404356, z: -0.48712063}
+  m_LocalPosition: {x: 0.35, y: -0.77404356, z: 7.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1163,8 +1163,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 949591455}
   mHiddenRoot: {fileID: 0}
-  mTargetName: photo_2024-09-28_20-43-03
-  mDatasetName: Vuforia/Test1.xml
+  mTargetName: ValetPike
+  mDatasetName: Vuforia/TuzCresti.xml
   mCastedBehaviour: {fileID: 949591455}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
@@ -1227,13 +1227,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: photo_2024-09-28_20-43-03
+  mTrackableName: ValetPike
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/Test1.xml
-  mAspectRatio: 0.75
+  mDataSetPath: Vuforia/TuzCresti.xml
+  mAspectRatio: 1.4301676
   mImageTargetType: 0
-  mWidth: 7
-  mHeight: 5.25
+  mWidth: 5
+  mHeight: 7.150838
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
